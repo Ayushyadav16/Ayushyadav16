@@ -2,19 +2,22 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;DevOps+Enthusiast;Computer+Science+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;DevOps+Enthusiast;Computer+Science+Student;Always+Learning+New+Things;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a **Information Technology undergraduate** at **IIIT Vadodara** passionate about building scalable web applications and enterprise solutions. Currently exploring the fascinating world of **containerization**, **microservices**, and **DevOps practices**.
+I'm an **Information Technology undergraduate** at **IIIT Vadodara**, passionate about building scalable web applications and enterprise solutions.  
+Currently exploring the fascinating world of **containerization**, **microservices**, and **DevOps practices**.
 
-- 🔭 I'm currently working on **full-stack web applications** and **containerized deployments**
-- 🌱 I'm learning **Kubernetes orchestration** and **microservices architecture**
+- 🔭 Currently working on **full-stack web applications** and **containerized deployments**
+- 🌱 Learning **Kubernetes orchestration** and **microservices architecture**
 - 💼 Former **Software Engineering Intern** at **Jio Platforms Limited**
 - 🎯 Goal: Contributing to **open-source projects** and building **impactful solutions**
 - 📫 Reach me at: **ayushyadaviiitv@gmail.com**
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +32,7 @@ I'm a **Information Technology undergraduate** at **IIIT Vadodara** passionate a
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![DOM](https://img.shields.io/badge/DOM-FF6B35?style=for-the-badge&logo=html5&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=api&logoColor=white)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -49,10 +52,12 @@ I'm a **Information Technology undergraduate** at **IIIT Vadodara** passionate a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
+
 ## 💼 Professional Experience
 
-### 🔹 Software Engineering Intern | Jio Platforms Limited
-**May 2025 – July 2025 | Mumbai, Maharashtra**
+### 🔹 Software Engineering Intern | Jio Platforms Limited  
+**May 2024 – July 2024 | Mumbai, Maharashtra**
 
 - 🚀 Orchestrated **containerized deployments** across multiple **Kubernetes clusters**
 - 🐳 Optimized **Docker images** with multi-stage builds for improved efficiency
@@ -60,10 +65,12 @@ I'm a **Information Technology undergraduate** at **IIIT Vadodara** passionate a
 - 🔍 Debugged production issues through **log analysis** and **container monitoring**
 - 🤝 Collaborated on **microservices architecture** and **service mesh** configurations
 
+---
+
 ## 🌟 Featured Projects
 
-### 📋 Group Management System
-**Full-Stack Web Application | May 2024**
+### 📋 Group Management System  
+**Full-Stack Web Application | May 2024**  
 
 A comprehensive platform facilitating **faculty-student collaboration** for project assignments and team formation.
 
@@ -77,34 +84,15 @@ A comprehensive platform facilitating **faculty-student collaboration** for proj
 - 🚀 **40% performance improvement** in page load times
 - 🤖 **Automated group allocation** algorithm
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushyadav)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushyadav16/Group-Management-System)
 
-
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science and Engineering**  
-*Indian Institute of Information Technology Vadodara* | **Dec 2022 – May 2026**  
-**CPI:** 7.2/10.0
-
-**📚 Relevant Coursework:** Data Structures & Algorithms, OOP, DBMS, Software Engineering, Web Technologies
-
-## 🏆 What I'm Passionate About
-
-```javascript
-const ayush = {
-    passions: ["Web Development", "DevOps", "Open Source"],
-    currentFocus: "Building scalable microservices",
-    learningGoals: ["Advanced Kubernetes", "Cloud Architecture", "System Design"],
-    funFact: "I debug with coffee and deploy with confidence! ☕"
-};
-```
-
+---
 
 ## 🤝 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-yadav-a98381240)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-yadav-a98381240)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushyadaviiitv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushyadav16)
 
