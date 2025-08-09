@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science undergraduate** at **IIIT Vadodara** passionate about building scalable web applications and enterprise solutions. Currently exploring the fascinating world of **containerization**, **microservices**, and **DevOps practices**.
+I'm a **Information Technology undergraduate** at **IIIT Vadodara** passionate about building scalable web applications and enterprise solutions. Currently exploring the fascinating world of **containerization**, **microservices**, and **DevOps practices**.
 
 - 🔭 I'm currently working on **full-stack web applications** and **containerized deployments**
 - 🌱 I'm learning **Kubernetes orchestration** and **microservices architecture**
@@ -79,19 +79,6 @@ A comprehensive platform facilitating **faculty-student collaboration** for proj
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushyadav)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushyadav&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushyadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ## 🎓 Education
 
@@ -112,17 +99,14 @@ const ayush = {
 };
 ```
 
-## 📈 Activity Graph
-
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushyadav&theme=tokyo-night&hide_border=true)](https://github.com/ayushyadav)
 
 ## 🤝 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushyadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-yadav-a98381240)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushyadaviiitv@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushyadav)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushyadav16)
 
 </div>
 
@@ -131,7 +115,5 @@ const ayush = {
 <div align="center">
   
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayushyadav&color=blueviolet&style=for-the-badge)
 
 </div>
